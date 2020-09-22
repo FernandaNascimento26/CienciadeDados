@@ -1,4 +1,4 @@
-# Um modelo para prever a mortalidade causa por insuficiência cardíaca
+# Um modelo para prever a mortalidade causada por insuficiência cardíaca
 
 O conjunto de dados contendo os registros médicos de 299 pacientes com insuficiência cardíaca coletados no hospital Faisalabad Institute of Cardiology e no Allied em Faisalabad (Punjab, Paquistão), durante abril-dezembro de 2015. Os pacientes eram 105 mulheres e 194 homens, com idades variando entre 40 e 95 anos. 
 Todos os 299 pacientes tinham disfunção sistólica ventricular esquerda e tinham insuficiência cardíaca prévia que os colocava nas classes III ou IV da classificação da New York Heart Association (NYHA) dos estágios da insuficiência cardíaca.
